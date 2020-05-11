@@ -3,3 +3,5 @@ Hello World
 changes made in third.txt
 
 updated for fast foward
+
+updated for merge commit
